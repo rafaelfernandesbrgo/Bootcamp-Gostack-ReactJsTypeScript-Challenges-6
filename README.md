@@ -1,0 +1,2 @@
+# Bootcamp-Gostack-ReactJsTypeScript-Challenges-6
+ This is BootCamp Rocketseat challenge number 06, an application was created in React.js and TypeScript using various technologies and concepts like typescript, typing, componentization, properties, dropzone, sending vector files, axios, requests, errors, csv import, routes, styled-components, cascading of components, GlobalStyle, formatting currencies and dates with zones, state management, Hooks , useState, useEffect, refactoring, optimization, tables, unit tests
