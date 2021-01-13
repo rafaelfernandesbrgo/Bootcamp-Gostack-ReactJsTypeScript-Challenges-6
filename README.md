@@ -46,3 +46,7 @@ Entre outras, foram utilizadas os seguintes conceitoros e tecnologias:
 * Otimização de componentes
 * Tabelas e dados
 * Testes unitários
+
+![alt text](https://github.com/rafaelfernandesbrgo/Bootcamp-Gostack-ReactJsTypeScript-Challenges-6/blob/master/arts/Art%20Go%20Finances%20%20(1).png)
+
+![alt text](https://github.com/rafaelfernandesbrgo/Bootcamp-Gostack-ReactJsTypeScript-Challenges-6/blob/master/arts/Art%20Go%20Finances%20%20(2).png )
